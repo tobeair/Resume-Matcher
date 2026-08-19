@@ -983,6 +983,13 @@
     "title": "Acompanhamento de candidaturas",
     "subtitle": "Acompanhe em que etapa está cada currículo personalizado.",
     "addApplication": "Adicionar candidatura",
+    "manage": {
+      "button": "Gerenciar",
+      "title": "Gerenciar colunas de status",
+      "description": "Escolha quais colunas serão exibidas. Candidaturas ocultas não são excluídas.",
+      "noneVisibleTitle": "Nenhuma coluna de status está visível",
+      "noneVisibleDescription": "Use Gerenciar para exibir uma ou mais colunas."
+    },
     "columns": {
       "saved": "Salvo",
       "applied": "Enviado",
